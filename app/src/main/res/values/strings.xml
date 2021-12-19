@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LearnAccessibility</string>
+    <string name="power">P</string>
+    <string name="volume">V</string>
+    <string name="scroll">Sc</string>
+    <string name="swipe">Sw</string>
+</resources>
